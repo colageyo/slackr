@@ -6,5 +6,5 @@ controller using the Python framework Flask, working with rest API clients and f
 - server.py contains the Flask server
 - server contains all backend files 
 - frontend/node_modules contains all frontend files 
-- documentation contains all documentation associated with the project
+- documentation contains detailed outlines of the project
 
